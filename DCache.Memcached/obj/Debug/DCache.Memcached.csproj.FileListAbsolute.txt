@@ -1,0 +1,6 @@
+F:\Git\Source\Dragon\DCache\DCache.Memcached\bin\Debug\DCache.Memcached.dll
+F:\Git\Source\Dragon\DCache\DCache.Memcached\bin\Debug\DCache.Memcached.pdb
+F:\Git\Source\Dragon\DCache\DCache.Memcached\obj\Debug\DCache.Memcached.csprojResolveAssemblyReference.cache
+F:\Git\Source\Dragon\DCache\DCache.Memcached\obj\Debug\DCache.Memcached.csproj.CoreCompileInputs.cache
+F:\Git\Source\Dragon\DCache\DCache.Memcached\obj\Debug\DCache.Memcached.dll
+F:\Git\Source\Dragon\DCache\DCache.Memcached\obj\Debug\DCache.Memcached.pdb

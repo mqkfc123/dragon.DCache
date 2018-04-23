@@ -1,0 +1,10 @@
+F:\Git\Source\Dragon\DCache\DCache.Redis\obj\Debug\DCache.Redis.csprojResolveAssemblyReference.cache
+F:\Git\Source\Dragon\DCache\DCache.Redis\obj\Debug\DCache.Redis.csproj.CoreCompileInputs.cache
+F:\Git\Source\Dragon\DCache\DCache.Redis\bin\Debug\DCache.Redis.dll
+F:\Git\Source\Dragon\DCache\DCache.Redis\bin\Debug\DCache.Redis.pdb
+F:\Git\Source\Dragon\DCache\DCache.Redis\bin\Debug\DCache.dll
+F:\Git\Source\Dragon\DCache\DCache.Redis\bin\Debug\StackExchange.Redis.dll
+F:\Git\Source\Dragon\DCache\DCache.Redis\bin\Debug\DCache.pdb
+F:\Git\Source\Dragon\DCache\DCache.Redis\bin\Debug\StackExchange.Redis.xml
+F:\Git\Source\Dragon\DCache\DCache.Redis\obj\Debug\DCache.Redis.dll
+F:\Git\Source\Dragon\DCache\DCache.Redis\obj\Debug\DCache.Redis.pdb
