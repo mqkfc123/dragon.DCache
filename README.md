@@ -3,4 +3,4 @@
 
     2.1 reids
   
-    2.2 memcached(正在开发中)
+    2.2 memcached
