@@ -9,7 +9,8 @@ using DCache.Containers;
 #if NET45 || NET461
 
 #else
- 
+//using Microsoft.Extensions.Options;
+//using Microsoft.Extensions.Logging;
 #endif
 
 

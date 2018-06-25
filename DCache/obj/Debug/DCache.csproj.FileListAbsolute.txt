@@ -6,8 +6,8 @@ F:\Git\Source\Dragon\DCache\DCache\DCache\obj\Debug\DCache.dll
 F:\Git\Source\Dragon\DCache\DCache\DCache\obj\Debug\DCache.pdb
 F:\Git\Source\Dragon\DCache\DCache\bin\Debug\DCache.dll
 F:\Git\Source\Dragon\DCache\DCache\bin\Debug\DCache.pdb
+F:\Git\Source\Dragon\DCache\DCache\bin\Debug\StackExchange.Redis.dll
+F:\Git\Source\Dragon\DCache\DCache\bin\Debug\StackExchange.Redis.xml
 F:\Git\Source\Dragon\DCache\DCache\obj\Debug\DCache.csproj.CoreCompileInputs.cache
 F:\Git\Source\Dragon\DCache\DCache\obj\Debug\DCache.dll
 F:\Git\Source\Dragon\DCache\DCache\obj\Debug\DCache.pdb
-F:\Git\Source\Dragon\DCache\DCache\bin\Debug\StackExchange.Redis.dll
-F:\Git\Source\Dragon\DCache\DCache\bin\Debug\StackExchange.Redis.xml

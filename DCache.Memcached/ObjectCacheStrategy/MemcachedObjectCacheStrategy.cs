@@ -12,7 +12,7 @@ using DCache.Cache.ContainerCacheStrategy;
 using DCache.Memcached.ContainerCacheStrategy;
 using DCache.Cache.Lock;
 using System.Net;
-#if NET45 || NET461
+#if NET45 || NET452 || NET461
 
 #else
 //using Microsoft.Extensions.Logging;
