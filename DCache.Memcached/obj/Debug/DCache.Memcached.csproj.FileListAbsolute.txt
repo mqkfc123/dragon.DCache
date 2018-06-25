@@ -4,3 +4,14 @@ F:\Git\Source\Dragon\DCache\DCache.Memcached\obj\Debug\DCache.Memcached.csprojRe
 F:\Git\Source\Dragon\DCache\DCache.Memcached\obj\Debug\DCache.Memcached.csproj.CoreCompileInputs.cache
 F:\Git\Source\Dragon\DCache\DCache.Memcached\obj\Debug\DCache.Memcached.dll
 F:\Git\Source\Dragon\DCache\DCache.Memcached\obj\Debug\DCache.Memcached.pdb
+F:\Git\Source\Dragon\DCache\DCache.Memcached\bin\Debug\DCache.Memcached.dll.config
+F:\Git\Source\Dragon\DCache\DCache.Memcached\bin\Debug\DCache.dll
+F:\Git\Source\Dragon\DCache\DCache.Memcached\bin\Debug\Enyim.Caching.dll
+F:\Git\Source\Dragon\DCache\DCache.Memcached\bin\Debug\Enyim.Caching.Web.dll
+F:\Git\Source\Dragon\DCache\DCache.Memcached\bin\Debug\Membase.dll
+F:\Git\Source\Dragon\DCache\DCache.Memcached\bin\Debug\DCache.pdb
+F:\Git\Source\Dragon\DCache\DCache.Memcached\bin\Debug\Enyim.Caching.pdb
+F:\Git\Source\Dragon\DCache\DCache.Memcached\bin\Debug\Enyim.Caching.xml
+F:\Git\Source\Dragon\DCache\DCache.Memcached\bin\Debug\Enyim.Caching.Web.pdb
+F:\Git\Source\Dragon\DCache\DCache.Memcached\bin\Debug\Membase.pdb
+F:\Git\Source\Dragon\DCache\DCache.Memcached\bin\Debug\Membase.xml
